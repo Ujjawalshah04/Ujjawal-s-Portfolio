@@ -1,2 +1,2 @@
 # Ujjawal-s-Portfolio
-Analytics Portfolio
+Some of the projects made by me
